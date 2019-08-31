@@ -1,0 +1,10 @@
+# IDEA
+.idea
+
+# Environment
+node_modules
+tmp
+
+# Out put
+build
+videos
