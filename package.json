@@ -35,7 +35,7 @@
     "@material-ui/core": "^4.3.3",
     "effector": "^20.1.2",
     "effector-react": "^20.2.2",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.1",
